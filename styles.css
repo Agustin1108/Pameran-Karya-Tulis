@@ -1,0 +1,90 @@
+*{
+    font-family: arial;
+}
+
+body{
+    background-color: snow;
+}
+
+.header{
+    background-color: deepskyblue;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: snow;
+}
+
+
+p{
+    font-size: 10px;
+    margin-top: 10px;
+    padding: 4px;
+    color: darkgray;
+}
+
+.button{
+    text-align: center;
+    margin: 20px;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: deepskyblue;
+    width: 200px;
+    padding: 8px 0;
+    margin: 10px;
+    color: snow;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+}
+
+a:hover{
+    background-color: dodgerblue;
+}
+
+.beranda-button{
+    background-color: snow;
+    color: deepskyblue;
+    border: solid deepskyblue;
+    transition: background-color 0.2s ease;
+}
+
+.biodata-button{
+    background-color: snow;
+    color: deepskyblue;
+    border: solid deepskyblue;
+    transition: background-color 0.2s ease;
+}
+
+.biodata-button:hover{
+    background-color: deepskyblue;
+    color: snow;
+}
+
+.beranda-button:hover{
+    background-color: deepskyblue;
+    color: snow;
+}
+
+.cs-button{
+    background-color: snow;
+    color: deepskyblue;
+}
+
+.com-soon{
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: deepskyblue;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.gambar-cm{
+    width: 50%;
+}
